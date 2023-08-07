@@ -38,6 +38,7 @@ y
 **Make sure to close the outer border with walls!!!**
 
 For example, "maze.txt" file will produce the following maze:
+
 ![Maze example](./images/Output%20-%20Starting%20Maze%20example.PNG)
 
 
