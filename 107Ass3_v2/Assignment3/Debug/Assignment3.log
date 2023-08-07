@@ -1,0 +1,15 @@
+﻿  assig_three220.c
+  game_state.c
+E:\__UTAS\Year 1\Sem 2\KIT107 - Programming\Ass\Ass 3\107Ass3_v2\Assignment3\game_state.c(430,7): warning C4101: 'msg': unreferenced local variable
+  game_tree.c
+E:\__UTAS\Year 1\Sem 2\KIT107 - Programming\Ass\Ass 3\107Ass3_v2\Assignment3\game_tree.c(409,7): warning C4101: 'msg': unreferenced local variable
+E:\__UTAS\Year 1\Sem 2\KIT107 - Programming\Ass\Ass 3\107Ass3_v2\Assignment3\game_tree.c(408,6): warning C4101: 'm': unreferenced local variable
+E:\__UTAS\Year 1\Sem 2\KIT107 - Programming\Ass\Ass 3\107Ass3_v2\Assignment3\game_tree.c(539,7): warning C4101: 'msg': unreferenced local variable
+E:\__UTAS\Year 1\Sem 2\KIT107 - Programming\Ass\Ass 3\107Ass3_v2\Assignment3\game_tree.c(538,6): warning C4101: 'm': unreferenced local variable
+  node.c
+  queue.c
+  square_state.c
+  stack.c
+  t_node.c
+  Generating Code...
+  Assignment3.vcxproj -> E:\__UTAS\Year 1\Sem 2\KIT107 - Programming\Ass\Ass 3\107Ass3_v2\Debug\Assignment3.exe
