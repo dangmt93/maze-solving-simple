@@ -46,8 +46,7 @@ For example, "maze.txt" file will produce the following maze:
 Depending on your selected search, the program will produce the corresponding solved mazed, with the list of moves. 
 
 **Sample outputs**:
-Breath-first solution:
->![Breath-first solution](./images/Output%20-%20Breadth-first%20search.PNG)
 
-Depth-first solution:
->![Depth-first solution](./images/Output%20-%20Depth-first%20search.PNG)
+Breath-first solution      |  Depth-first solution
+:-------------------------:|:-------------------------:
+![Breath-first solution](./images/Output%20-%20Breadth-first%20search.PNG)  |  ![Depth-first solution](./images/Output%20-%20Depth-first%20search.PNG)
